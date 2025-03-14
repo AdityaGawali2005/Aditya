@@ -1,3 +1,4 @@
+
 const home = document.getElementById("home");
 home.classList.add("active");
 function changeColor(button) {
